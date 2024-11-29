@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **System Designing And System Architecture**
 
-- 👨‍💻 All of my projects are available at [aishwarypatle.netlify.app/](aishwarypatle.netlify.app/)
+- 👨‍💻 All of my projects are available at [aishwarypatle.vercel.app/](aishwarypatle.vercel.app/)
 
 - 💬 Ask me about *APIs , Frontend & Backend also some of DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aishwary-patle-1b13401a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aishwary-patle-1b13401a1/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aishwary-patle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aishwary-patle" height="30" width="40" /></a>
 <a href="https://instagram.com/aishwary.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aishwary.dev" height="30" width="40" /></a>
 </p>
 
