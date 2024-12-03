@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Designing And System Architecture**
 
-- 👨‍💻 All of my projects are available at [aishwarypatle.vercel.app/](aishwarypatle.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://aishwarypatle.vercel.app/" target="_blank">aishwarypatle.vercel.app</a>
 
 - 💬 Ask me about *APIs , Frontend & Backend also some of DSA**
 
